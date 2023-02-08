@@ -1,0 +1,20 @@
+{
+  "name": "intro-javascript",
+  "version": "1.0.0",
+  "description": "introduçao programaçao javascriot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitoriadani/intro-javascript.git"
+  },
+  "keywords": [],
+  "author": "Daniele Vitoria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitoriadani/intro-javascript/issues"
+  },
+  "homepage": "https://github.com/vitoriadani/intro-javascript#readme"
+}
