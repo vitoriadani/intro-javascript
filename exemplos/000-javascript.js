@@ -28,3 +28,14 @@ let endereco ={
 };
 let covid;
 let dengue = null;
+
+
+  console.log('nome: ' + nome);
+  console.log('idade: ' + idade);
+  console.log('altura: ' + altura);
+  console.log('trabalha: ' + trabalha);
+  console.log('cor favorita: ' + corFavorita);
+  console.log('cores favoritas: ' + cores_favoritas[0] + ', ' + cores_favoritas[1] + ', ' + cores_favoritas[2]);
+  console.log('endereço: ' + endereco.longradouro + ' ' + endereco.nome_longradouro + ' , ' + endereco.numero  + ' - ' + endereco.bairro  + ' - ' + endereco.cidade);
+  console.log('covid: ' + covid);
+  console.log('dengue: ' + dengue);
