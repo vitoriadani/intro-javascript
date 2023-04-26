@@ -23,7 +23,6 @@ const entrada = require('prompt-sync')();
 
 let mat1 = entrada('Digite o nome da 1ª matéria: ')
 let n1 = parseFloat(entrada('Digite a nota de ' + mat1 + ': '));
-
 let mat2 = entrada('Digite o nome da 2ª matéria: ');
 let n2 = parseFloat(entrada('Digite a nota de ' + mat2 + ': '));
 
